@@ -4,6 +4,6 @@
 <img src="PicAndVid/Function2.png" alt="Just for Fun :D">
 <h2 align="center">use mypy to terminal</h2>
 <video width="500" height="400" controls>
-<source src="PicAndVid/Func3.mp4" type="video/mp4">
-Your browser does not support the video tag.
+    <source src="PicAndVid/Func3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>
